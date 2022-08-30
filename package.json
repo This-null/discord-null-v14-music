@@ -1,0 +1,24 @@
+{
+  "name": "null-music-bots",
+  "main": "main.js",
+  "author": "null",
+  "version": "2.0.9",
+  "scripts": {
+    "start": "node null.js"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "croxydb": "^0.0.7",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.8.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8",
+    "quick.db": "^9.0.5",
+    "ytdl-core": "^4.11.1"
+  }
+}
